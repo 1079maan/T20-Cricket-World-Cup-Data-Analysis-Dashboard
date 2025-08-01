@@ -51,7 +51,7 @@ The data for this project was sourced from various cricket statistics platforms 
 * Dynamic filtering for in-depth analysis.
 
 ## How to Use
-1.  Clone the repository: `git clone []`
+1.  Clone the repository: `git clone [https://github.com/1079maan/T20-Cricket-World-Cup-Data-Analysis-Dashboard]`
 2.  Open `T20_Data.ipynb` in a Jupyter environment to understand the data preprocessing steps.
 3.  Open `T20_cric.pbix` in Power BI Desktop to explore the data model and interactive dashboard.
 4.  Refer to `DAX Measures and Calculated columns.xlsx - metrics_list.csv` for a comprehensive list of all calculated measures and columns used.
